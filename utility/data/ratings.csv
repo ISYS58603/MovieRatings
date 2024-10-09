@@ -1,0 +1,51 @@
+rating_id,user_id,movie_id,rating,review,date
+1,8,14,3,Amazing movie!,1/1/2023
+2,5,13,4,Could have been better.,1/2/2023
+3,7,8,5,Loved the storyline.,1/3/2023
+4,9,9,1,Not my cup of tea.,1/4/2023
+5,8,10,2,A masterpiece.,1/5/2023
+6,12,1,1,I expected more.,1/6/2023
+7,11,16,2,"Solid acting, great plot!",1/7/2023
+8,13,10,5,Wouldn't watch again.,1/8/2023
+9,18,13,5,Highly recommended!,1/9/2023
+10,15,13,4,Overrated.,1/10/2023
+11,8,13,3,Fantastic visuals!,1/11/2023
+12,6,16,3,The pacing was off.,1/12/2023
+13,2,11,1,Kept me on the edge of my seat.,1/13/2023
+14,17,2,5,Too long for my liking.,1/14/2023
+15,20,7,4,Incredible action scenes!,1/15/2023
+16,16,20,1,Too predictable.,1/16/2023
+17,4,1,2,One of the best movies I've seen.,1/17/2023
+18,14,13,4,A bit slow at times.,1/18/2023
+19,10,6,5,Great soundtrack!,1/19/2023
+20,5,10,1,The ending was perfect.,1/20/2023
+21,5,20,4,Disappointing.,1/21/2023
+22,20,3,5,"Good, but not great.",1/22/2023
+23,10,10,5,A real tearjerker.,1/23/2023
+24,9,3,4,Will watch again!,1/24/2023
+25,11,20,2,The acting was subpar.,1/25/2023
+26,14,10,2,A classic!,1/26/2023
+27,6,19,5,Not worth the hype.,1/27/2023
+28,9,2,4,Totally gripping.,1/28/2023
+29,6,14,5,Couldn’t look away.,1/29/2023
+30,18,11,5,Unforgettable!,1/30/2023
+31,7,19,1,I didn't enjoy it.,1/31/2023
+32,2,4,4,Exceptional storytelling.,2/1/2023
+33,11,16,5,It dragged a bit.,2/2/2023
+34,2,16,1,Beautifully shot!,2/3/2023
+35,6,11,5,Forgettable plot.,2/4/2023
+36,6,3,1,Amazing performances!,2/5/2023
+37,8,18,3,Not worth the time.,2/6/2023
+38,15,18,2,A cinematic gem.,2/7/2023
+39,4,3,4,I was bored halfway through.,2/8/2023
+40,11,5,3,Heartfelt and emotional.,2/9/2023
+41,14,6,3,Visually stunning.,2/10/2023
+42,8,19,2,What a journey!,2/11/2023
+43,15,9,5,The character development was weak.,2/12/2023
+44,16,17,3,Pure entertainment!,2/13/2023
+45,9,7,4,I was invested the whole time.,2/14/2023
+46,15,3,2,A snooze fest.,2/15/2023
+47,15,5,2,The plot twists were incredible.,2/16/2023
+48,12,16,3,It lacked depth.,2/17/2023
+49,8,2,5,Loved every minute!,2/18/2023
+50,10,12,3,Wouldn’t recommend.,2/19/2023
